@@ -1,0 +1,5 @@
+[plugin]
+package = "pretix-fsr-next-wallet"
+modules = [ "pretix_fsr_next_wallet" ]
+marketplace_name = "fsr-next-wallet"
+
